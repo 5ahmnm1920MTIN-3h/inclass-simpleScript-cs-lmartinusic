@@ -5,16 +5,18 @@
    </h2>
 <p></p>
 <p>Der Vorgang, ein Softwaresystem so zu ändern, dass es das äußere Verhalten des Codes nicht verändert und dennoch seine interne Struktur verbessert. Es ist ein disziplinierter Weg, um Code zu bereinigen, der das Risiko von Fehlern minimiert.</p>
-
+ <h2>
 <li>Welche Vorteile/Nachteile birgt Refactoring?</li>
+    </h2>
 <p></p>
 <p>-Lesbarkeit, so dass möglichst viele Programmierer verstehen, was der Code tatsächlich macht</p>
 <p>-Modularität und Redundanz, so dass konkrete Problemlösungen von anderer Stelle genutzt werden können und nicht mehrfach implementiert sind</p>
 <p>-Kopplung und Kohäsion, damit zukünftige Änderungen nur lokale Auswirkungen haben</p>
 <p>-Testbarkeit , so dass es möglich wird, die korrekte Arbeitsweise des Codes für die Zukunft durch Regressionstests abzusichern</p> 
 <p></p>
-
+ <h2>
 <li>Was sind die Refactoring-Schritte?</li>
+    </h2>
 <p></p>
 1)Testfall definieren (optimal automatisiert) 
 <p></p>
@@ -26,8 +28,9 @@
 <p></p>
 5) Commiten
 <p></p>
-
+ <h2>
 <li>Prinzipien von gutem Code?</li>
+    </h2>
 <p></p>
 <p>-Lesbarkeit</p>
 <p>-Verständlichkeit</p>
@@ -35,11 +38,15 @@
 <p>-Wartbarkeit</p>
 <p>-Erweiterbarkeit</p>
 <p></p>
+   <h2>
 <li>Was versteht man unter Code Smell?</li>
+    </h2>
 <p></p>
 <p>Funktionierender, aber schlecht strukturierter Quellcode.</p>
 <p></p>
+     <h2>
 <li>Recherche von 10 Code Smells die Eure Projekt betreffen können, inkl. Beschreibung und Beispiel.</li>
+    </h2>
 <p></p>
 
   <b>Code-Duplizierung</b>
