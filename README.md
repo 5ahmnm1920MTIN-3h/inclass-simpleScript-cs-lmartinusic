@@ -5,9 +5,13 @@
 
 <li>Welche Vorteile/Nachteile birgt Refactoring?</li>
 <p></p>
+<li>Was versteht man unter Code Smell?</li>
+
+<p>Funktionierender, aber schlecht strukturierter Quellcode.</p>
 
 <li>Recherche von 10 Code Smells die Eure Projekt betreffen können, inkl. Beschreibung und Beispiel.</li>
 <p></p>
+
   <b>Code-Duplizierung</b>
 <p>Der gleiche Code kommt an verschiedenen Stellen vor.</p>
 
