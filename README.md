@@ -1,14 +1,42 @@
 # inclass-simpleScript-cs-lmartinusic
 
 <li>Was ist Refactoring Definition in eigenen Worten?</li>
+<p></p>
 <p>Der Vorgang, ein Softwaresystem so zu ändern, dass es das äußere Verhalten des Codes nicht verändert und dennoch seine interne Struktur verbessert. Es ist ein disziplinierter Weg, um Code zu bereinigen, der das Risiko von Fehlern minimiert.</p>
 
 <li>Welche Vorteile/Nachteile birgt Refactoring?</li>
 <p></p>
+<p>-Lesbarkeit, so dass möglichst viele Programmierer verstehen, was der Code tatsächlich macht</p>
+<p>-Modularität und Redundanz, so dass konkrete Problemlösungen von anderer Stelle genutzt werden können und nicht mehrfach implementiert sind</p>
+<p>-Kopplung und Kohäsion, damit zukünftige Änderungen nur lokale Auswirkungen haben</p>
+<p>-Testbarkeit , so dass es möglich wird, die korrekte Arbeitsweise des Codes für die Zukunft durch Regressionstests abzusichern</p> 
+<p></p>
+
+<li>Was sind die Refactoring-Schritte?</li>
+<p></p>
+1)Testfall definieren (optimal automatisiert) 
+<p></p>
+2) Stellen Sie sicher, dass das Programm funktioniert? Commiten
+<p></p>
+3) Nehmen Sie eine einzelne Änderung vor, um einen Code-Smell zu beheben
+<p></p>
+4) Überprüfen Sie, ob das Programm noch funktioniert
+<p></p>
+5) Commiten
+<p></p>
+
+<li>Prinzipien von gutem Code?</li>
+<p></p>
+<p>-Lesbarkeit</p>
+<p>-Verständlichkeit</p>
+<p>-Testbarkeit</p>
+<p>-Wartbarkeit</p>
+<p>-Erweiterbarkeit</p>
+<p></p>
 <li>Was versteht man unter Code Smell?</li>
 
 <p>Funktionierender, aber schlecht strukturierter Quellcode.</p>
-
+<p></p>
 <li>Recherche von 10 Code Smells die Eure Projekt betreffen können, inkl. Beschreibung und Beispiel.</li>
 <p></p>
 
